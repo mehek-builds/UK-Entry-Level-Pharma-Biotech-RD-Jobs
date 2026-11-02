@@ -1,11 +1,12 @@
-# 4 chemistry, analytical and formulation development roles
+# 5 chemistry, analytical and formulation development roles
 
-**4 roles at 3 companies.** Checked 26 Oct 2026. Medicinal and synthetic chemistry, analytical development and formulation.
+**5 roles at 4 companies.** Checked 2 Nov 2026. Medicinal and synthetic chemistry, analytical development and formulation.
 
 _Pulled from companies' own job boards and rebuilt every Monday._
 
 | Company | Role | Location | Pay | Posted | Visa signal |
 | --- | --- | --- | --- | --- | --- |
+| **Cancer Research UK** | [Student Placement - Medicinal Chemistry (lab based undergraduate placement scheme)](https://trylitos.com/job/45c3c3c4-3e5d-4c11-82b4-044486a5a311?utm_source=github&utm_campaign=uk-pharma-rd-chemistry-development) | Cancer Research UK Scotland Institute |  | Oct 26 |  |
 | **Moderna** | [Analyst, Quality Control, Chemistry & Stability](https://trylitos.com/job/b172e75c-6eda-4343-ab27-81e5a33c6401?utm_source=github&utm_campaign=uk-pharma-rd-chemistry-development) | Oxford - England; Quality |  | Oct 21 | Employer holds a UK sponsor licence (Home Office register) |
 | **Elanco** | [Analytical Development Scientist](https://trylitos.com/job/a8e52339-cfc6-4e60-9525-e78aed264477?utm_source=github&utm_campaign=uk-pharma-rd-chemistry-development) | UK - Speke |  | Oct 6 |  |
 | **Lonza** | [Scientist - Analytical Development team](https://trylitos.com/job/7b0b6db6-7384-46fa-ba12-6daf6c906ffc?utm_source=github&utm_campaign=uk-pharma-rd-chemistry-development) | UK - Slough |  | Sep 25 |  |
